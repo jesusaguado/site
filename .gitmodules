@@ -1,0 +1,4 @@
+[submodule "jesusaguado-github-site/public"]
+	path = jesusaguado-github-site/public
+	url = git@github.com:jesusaguado/jesusaguado.github.io.git
+	branch = main
