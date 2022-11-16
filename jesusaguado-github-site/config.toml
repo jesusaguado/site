@@ -1,0 +1,4 @@
+baseURL = 'https://jesusaguado.github.io/'
+languageCode = 'en-us'
+title = 'Jesus Aguado'
+theme = 'contrast-hugo'
