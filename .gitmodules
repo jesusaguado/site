@@ -2,3 +2,7 @@
 	path = jesusaguado-github-site/public
 	url = git@github.com:jesusaguado/jesusaguado.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:jesusaguado/jesusaguado.github.io.git
+	branch = main
