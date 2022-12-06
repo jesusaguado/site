@@ -1,6 +1,6 @@
 ---
 title: "Sphere Geometry"
-date: 2022-11-16T11:03:57+01:00
+date: 2022-11-16T01:03:57+01:00
 math: true
 draft: false
 tags: ['machine-learning','clustering','math']
