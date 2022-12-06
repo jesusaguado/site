@@ -1,6 +1,6 @@
 # About me
 
-I'm Jesús Aguado. I am a scientist and technologist with a passion for
+I am a scientist and technologist with a passion for
 data analysis, machine learning and statistics.
 You can check my CV
 [here](docs/curriculum.pdf).  This page is hosted on my [
