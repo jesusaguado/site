@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
+{{ partial "helpers/katex.html" . }}
 {{ end }}
 
 <article>
