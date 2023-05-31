@@ -3,7 +3,7 @@
 I am a scientist and technologist with a passion for
 data analysis, machine learning and statistics.
 You can check my CV
-[here](docs/curriculum.pdf).  This page is hosted on my [
+[here](docs/cv-jesus-aguado.pdf).  This page is hosted on my [
 Github](https://github.com/jesusaguado) repository.  I will be publishing some
 of my projects and thoughts over here.
 
